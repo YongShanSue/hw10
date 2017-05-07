@@ -1,0 +1,56 @@
+IntervalNumber	12
+Order	1	Error	0.0147826
+Order	2	Error	2.72976e-05
+Order	3	Error	6.12178e-05
+Order	4	Error	2.85643e-07
+Order	6	Error	3.93646e-09
+
+IntervalNumber	24
+Order	1	Error	0.00369694
+Order	2	Error	1.71033e-06
+Order	3	Error	3.84507e-06
+Order	4	Error	4.51197e-09
+Order	6	Error	1.57803e-11
+
+IntervalNumber	48
+Order	1	Error	0.000924316
+Order	2	Error	1.06962e-07
+Order	3	Error	2.40615e-07
+Order	4	Error	7.06919e-11
+Order	6	Error	6.03961e-14
+
+IntervalNumber	96
+Order	1	Error	0.000231084
+Order	2	Error	6.68616e-09
+Order	3	Error	1.50431e-08
+Order	4	Error	1.10667e-12
+Order	6	Error	1.77636e-15
+
+IntervalNumber	192
+Order	1	Error	5.77713e-05
+Order	2	Error	4.17901e-10
+Order	3	Error	9.40266e-10
+Order	4	Error	1.33227e-14
+Order	6	Error	1.77636e-15
+
+IntervalNumber	384
+Order	1	Error	1.44428e-05
+Order	2	Error	2.61249e-11
+Order	3	Error	5.8769e-11
+Order	4	Error	7.99361e-15
+Order	6	Error	2.66454e-15
+
+IntervalNumber	768
+Order	1	Error	3.61071e-06
+Order	2	Error	1.62093e-12
+Order	3	Error	3.67262e-12
+Order	4	Error	6.21725e-15
+Order	6	Error	8.88178e-15
+
+IntervalNumber	1536
+Order	1	Error	9.02678e-07
+Order	2	Error	1.08358e-13
+Order	3	Error	2.30926e-13
+Order	4	Error	1.24345e-14
+Order	6	Error	3.55271e-15
+
